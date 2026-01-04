@@ -1,0 +1,12 @@
+{
+  "name": "JASHER NORT",
+  "version": "1.0",
+  "description": "telegram: @KyzzOfficial",
+  "main": "kyzzavailable.js",
+  "scripts": {
+    "start": "node kyzzavailable.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}
